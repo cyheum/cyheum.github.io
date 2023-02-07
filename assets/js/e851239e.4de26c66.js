@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkcyh_kr=self.webpackChunkcyh_kr||[]).push([[2607],{7066:a=>{a.exports=JSON.parse('{"label":"hola","permalink":"/cyheum.github.io/tags/hola","allTagsPath":"/cyheum.github.io/tags","count":1}')}}]);

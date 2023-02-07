@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkcyh_kr=self.webpackChunkcyh_kr||[]).push([[2937],{4219:e=>{e.exports=JSON.parse('{"label":"new Date","permalink":"/tags/new-date","allTagsPath":"/tags","count":1}')}}]);
