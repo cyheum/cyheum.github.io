@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkcyh_kr=self.webpackChunkcyh_kr||[]).push([[1286],{8118:e=>{e.exports=JSON.parse('{"label":"next.js","permalink":"/cyheum.github.io/tags/next-js","allTagsPath":"/cyheum.github.io/tags","count":1}')}}]);

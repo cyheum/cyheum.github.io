@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkcyh_kr=self.webpackChunkcyh_kr||[]).push([[3767],{340:a=>{a.exports=JSON.parse('{"label":"JavaScript","permalink":"/cyheum.github.io/tags/java-script","allTagsPath":"/cyheum.github.io/tags","count":1}')}}]);
