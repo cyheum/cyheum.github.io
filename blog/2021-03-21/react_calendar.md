@@ -1,5 +1,5 @@
 ---
-slug: "[React] 달력 만들기"
+slug: "react_calendar"
 title: "[React] 라이브러리 없이 달력을 만들어 보자! - react 달력 만들기"
 authors: [yeheum]
 tags: [JavaScript, React, calendar, new Date, 달력]

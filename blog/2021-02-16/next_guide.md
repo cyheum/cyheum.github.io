@@ -1,5 +1,5 @@
 ---
-slug: "[Next.js] Next js 가이드 - 1"
+slug: "next_guide_1"
 title: "[Next.js] 우리의 사이트에 날개를 달아보자 - 1"
 authors: [yeheum]
 tags: [SSR, next, next.js, react]
