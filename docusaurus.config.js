@@ -6,6 +6,7 @@ const darkCodeTheme = require("prism-react-renderer/themes/dracula");
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
+  trailingSlash: false,
   title: "cyh's blog",
   tagline: "안녕하세요, 프론트엔드 개발자 최예흠의 블로그입니다.",
   favicon: "img/favicon.ico",
